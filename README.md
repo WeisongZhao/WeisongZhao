@@ -23,15 +23,12 @@
 |---|----|----|----|----|
 |icon|<p align="center"><img src='/imgs/imagej-128.png' width=60></p>|<p align="center"><img src='/imgs/MATLAB.jpg' width=100></p>|<p align="center"><img src='/imgs/Python.jpg' width=90></p>||
 |1|[PANELJ](https://github.com/WeisongZhao/PANELJ)|[Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|[ImagePy](https://github.com/Image-Py/imagepy)|[CleanWebTemplate](https://github.com/WeisongZhao/CleanWebTemplate)|
-
 |2|[SACDj](https://github.com/WeisongZhao/SACDj)|[Bayes-LFM](https://github.com/WeisongZhao/Bayes-LFM)|[DL-SIM](https://github.com/WeisongZhao/DL-SIM)| |
-
 |3|[Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej)|[img2vid](https://github.com/WeisongZhao/img2vid)| | |
-
-|3| |[SACDM](https://github.com/WeisongZhao/SACDM)| | |
-|4| |[PANELM](https://github.com/WeisongZhao/PANELM)| | |
-|5| |[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation)| | |
-|6| |[MNIST_Recognization](https://github.com/WeisongZhao/MNIST_Recognization)| | |
+|4| |[SACDM](https://github.com/WeisongZhao/SACDM)| | |
+|5| |[PANELM](https://github.com/WeisongZhao/PANELM)| | |
+|6| |[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation)| | |
+|7| |[MNIST_Recognization](https://github.com/WeisongZhao/MNIST_Recognization)| | |
 
 
 
