@@ -100,8 +100,8 @@
 |1|[PANELJ](https://github.com/WeisongZhao/PANELJ)|[PANELM](https://github.com/WeisongZhao/PANELM)|[ImagePy](https://github.com/Image-Py/imagepy)|[CleanWebTemplate](https://github.com/WeisongZhao/CleanWebTemplate)|
 |2|[SACDj](https://github.com/WeisongZhao/SACDj)|[SACDM](https://github.com/WeisongZhao/SACDM)|[DL-SIM](https://github.com/WeisongZhao/DL-SIM)| |
 |3|[Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej)|[img2vid](https://github.com/WeisongZhao/img2vid)|pyimg2vid| |
-|4| |[Bayes-LFM](https://github.com/WeisongZhao/Bayes-LFM)|PANELpy| |
-|5| |[Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|pySparse-SIM| |
+|4|img2vidJ|[Bayes-LFM](https://github.com/WeisongZhao/Bayes-LFM)|PANELpy| |
+|5|SparseJ|[Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|SparsePy| |
 |6| |[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation)| | |
 |7| |[MNIST_Recognization](https://github.com/WeisongZhao/MNIST_Recognization)| | |
 
