@@ -18,8 +18,8 @@
 **Concept:**
 
 <p align='middle'>
-<img src='/imgs/GUIv2.png' align="center" width=500>
-<img src='/imgs/GUI.png' align="center" width=500>
+<img src='/imgs/GUIv2.png' align="center" width=400>
+<img src='/imgs/GUI.png' align="center" width=400>
 </p>
 
 **Algorithm UI:**
