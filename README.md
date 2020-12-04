@@ -17,29 +17,23 @@
 <img src='/imgs/pytorch.png' width=100>
 </p>
 
+#### Softwares:
 
 ||ImageJ plugin|Matlab framework|Python framework|Other utils|
 |---|----|----|----|----|
-||<p align="center"><img src='/imgs/imagej-128.png' width=60></p>|<img src='/imgs/MATLAB.jpg' width=100>|<p align="center"><img src='/imgs/Python.jpg' width=90></p>||
+|icon|<p align="center"><img src='/imgs/imagej-128.png' width=60></p>|<p align="center"><img src='/imgs/MATLAB.jpg' width=100></p>|<p align="center"><img src='/imgs/Python.jpg' width=90></p>||
 |1|[PANELJ](https://github.com/WeisongZhao/PANELJ)|[Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|[ImagePy](https://github.com/Image-Py/imagepy)|[CleanWebTemplate](https://github.com/WeisongZhao/CleanWebTemplate)|
 
+|2|[SACDj](https://github.com/WeisongZhao/SACDj)|[Bayes-LFM](https://github.com/WeisongZhao/Bayes-LFM)|[DL-SIM](https://github.com/WeisongZhao/DL-SIM)| |
+
+|3|[Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej)|[img2vid](https://github.com/WeisongZhao/img2vid)| | |
+
+|3| |[SACDM](https://github.com/WeisongZhao/SACDM)| | |
+|4| |[PANELM](https://github.com/WeisongZhao/PANELM)| | |
+|5| |[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation)| | |
+|6| |[MNIST_Recognization](https://github.com/WeisongZhao/MNIST_Recognization)| | |
 
 
-#### ImageJ plugin
-[Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej); [PANELJ](https://github.com/WeisongZhao/PANELJ); [SACDj](https://github.com/WeisongZhao/SACDj); 
-
-#### Matlab framework
-[Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM); [Bayes-LFM](https://github.com/WeisongZhao/Bayes-LFM); [img2vid](https://github.com/WeisongZhao/img2vid); [SACDM](https://github.com/WeisongZhao/SACDM); [PANELM](https://github.com/WeisongZhao/PANELM); 
-
-[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation); [MNIST_Recognization](https://github.com/WeisongZhao/MNIST_Recognization)
-
-
-#### Python framework
-[ImagePy](https://github.com/Image-Py/imagepy); [DL-SIM](https://github.com/WeisongZhao/DL-SIM); 
-
-#### Other utils
-
-[CleanWebTemplate](https://github.com/WeisongZhao/CleanWebTemplate);
 
 ### News (start from 2020)
 
@@ -127,4 +121,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+#### ImageJ plugin
+[Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej); [PANELJ](https://github.com/WeisongZhao/PANELJ); [SACDj](https://github.com/WeisongZhao/SACDj); 
+
+#### Matlab framework
+[Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM); [Bayes-LFM](https://github.com/WeisongZhao/Bayes-LFM); [img2vid](https://github.com/WeisongZhao/img2vid); [SACDM](https://github.com/WeisongZhao/SACDM); [PANELM](https://github.com/WeisongZhao/PANELM); 
+
+[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation); [MNIST_Recognization](https://github.com/WeisongZhao/MNIST_Recognization)
+
+
+#### Python framework
+[ImagePy](https://github.com/Image-Py/imagepy); [DL-SIM](https://github.com/WeisongZhao/DL-SIM); 
+
+#### Other utils
+
+[CleanWebTemplate](https://github.com/WeisongZhao/CleanWebTemplate);
+
+
 -->
