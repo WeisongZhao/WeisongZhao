@@ -59,7 +59,7 @@
 </p>
 </details>
 
-3. [img2vid](https://github.com/WeisongZhao/img2vid): A light weight framework for making exsiting images to videos (written in Matlab).
+### 3. [img2vid](https://github.com/WeisongZhao/img2vid): A light weight framework for making exsiting images to videos (written in Matlab).
 
 <details>
 <summary><b>Example video produced by img2vid</b></summary>
