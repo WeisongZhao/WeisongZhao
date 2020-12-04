@@ -24,6 +24,8 @@
 - 2020-01: [img2vid](https://github.com/WeisongZhao/img2vid) v0.1.0 released.
 - 2020-01: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) v1.0.3 released `.p` code.
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=WeisongZhao&show_icons=true&theme=dark)
+
 ### Selected Projects
 
 1. [SACD](https://github.com/WeisongZhao/SACD): 10~20 times faster super-resolution fluctuation imaging. (writter in Matlab and java).
@@ -103,10 +105,7 @@
 |6| |[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation)| | |
 |7| |[MNIST_Recognization](https://github.com/WeisongZhao/MNIST_Recognization)| | |
 
-<p align="center">
-	
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WeisongZhao&show_icons=true&theme=dark)
-</p>
+
 
 <!--
 **WeisongZhao/WeisongZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
