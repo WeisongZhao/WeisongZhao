@@ -84,7 +84,7 @@
 
 ### Contact me 📱
 
-1. **Blogs**:[CSDN](https://blog.csdn.net/weixin_41923961/)
+1. **Blogs**: [CSDN](https://blog.csdn.net/weixin_41923961/)
 2. **Website**: [https://weisongzhao.github.io/](https://weisongzhao.github.io/)
 3. **Email**: zhaoweisong950713@163.com
 4. **Twitter**: [@weisong_zhao](https://twitter.com/weisong_zhao)
