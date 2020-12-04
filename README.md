@@ -17,15 +17,16 @@
 
 **Concept:**
 
-<p align='left'>
+<p>
 <img src='/imgs/GUIv2.png' align="left" width=700>
 </p>
 
 **Algorithm UI:**
 
-<p align='left'>
+<p>
 <img src='/imgs/GUI.png' align="left" width=700>
 </p>
+
 
 ### Contact me 📱
 
