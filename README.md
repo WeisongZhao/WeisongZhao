@@ -15,6 +15,8 @@
 
 2. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)
 
+<details>
+<summary><b>Details</b></summary>
 **Concept:**
 
 <p align="left">
@@ -26,7 +28,7 @@
 <p align="left">
 <img src='/imgs/GUI.png' width=700>
 </p>
-
+</details>
 
 ### Contact me 📱
 
