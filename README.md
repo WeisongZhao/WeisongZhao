@@ -20,7 +20,7 @@
 
 ||ImageJ plugin|Matlab framework|Python framework|Other utils|
 |---|----|----|----|----|
-||<img src='/imgs/MATLAB.jpg' width=100>|![](imgs/MATLAB.jpg)|![50](imgs/Python.jpg)||
+||<img src='/imgs/imagej-128.png' width=60>|<img src='/imgs/MATLAB.jpg' width=100>|<img src='/imgs/Python.jpg' width=90>||
 |1|[PANELJ](https://github.com/WeisongZhao/PANELJ)|[Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|[ImagePy](https://github.com/Image-Py/imagepy)|[CleanWebTemplate](https://github.com/WeisongZhao/CleanWebTemplate)|
 
 
