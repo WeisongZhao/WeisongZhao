@@ -7,7 +7,8 @@
 ### News (start from 2020)
 
 - 2020-11: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) fully open-source!
-- 2020-01: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) released `.p` code.
+- 2020-01: [img2vid](https://github.com/WeisongZhao/img2vid) v0.1.0 released.
+- 2020-01: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) v1.0.3 released `.p` code.
 
 ### Selected Projects
 
@@ -41,6 +42,32 @@
 <img src='/imgs/GUI.png' width=700>
 </p>
 </details>
+
+3. [img2vid](https://github.com/WeisongZhao/img2vid): A light weight framework for making exsiting images to videos (writter in Matlab).
+
+<details>
+<summary><b>Example video produced by img2vid</b></summary>
+
+<p align="left">
+<img src='/imgs/stage2.gif' width=700>
+</p>
+
+</details>
+
+4. [ImagePy](https://github.com/Image-Py/imagepy): An open source image processing framework (written in Python).
+
+<details>
+<summary><b>A glance of the ImagePy</b></summary>
+
+<p align="left">
+<img src='/imgs/OS5.png' width=700>
+</p>
+
+</details>
+
+5. [Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej): (written in java). 
+
+6. [AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation): a light weight simulation framework for adaptive optics in microscopy (written in Matlab).
 
 ### Contact me 📱
 
