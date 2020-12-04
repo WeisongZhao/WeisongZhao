@@ -10,7 +10,7 @@
 <p align="left">
 <img src='/imgs/MATLAB.jpg' width=100>
 <img src='/imgs/java.jpg' width=100>
-<img src='/imgs/imagej-128.png' width=90>
+<img src='/imgs/imagej-128.png' width=70>
 <img src='/imgs/Python.jpg' width=90>
 <img src='/imgs/Keras.png' width=90>
 <img src='/imgs/TensorFlow.png' width=110>
