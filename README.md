@@ -1,9 +1,8 @@
 
 
 ### About Me
-- 🔭 I’m currently a Ph.D. student at Harbin Institute of Technology (HIT).
+- :star: I’m currently a Ph.D. student at Harbin Institute of Technology (HIT).
 - :microscope: I'm developing advanced microscopy for cell/neuro biology.
-- 
 
 ### News (start from 2020)
 
@@ -11,6 +10,14 @@
 - 2020-01: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) released `.p` code.
 
 ### Selected Projects
+
+1. [SACD 1.0](https://github.com/WeisongZhao/SACD)
+
+<p align='center'>
+<img src='/imgs/GUIv2.png' align="center" width=900>
+</p>
+
+2. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)
 
 ### Contact me 📱
 
