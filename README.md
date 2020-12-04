@@ -11,19 +11,31 @@
 
 ### Selected Projects
 
-1. [SACD 1.0](https://github.com/WeisongZhao/SACD)
+1. [SACD](https://github.com/WeisongZhao/SACD): 10~20 times faster super-resolution fluctuation imaging. (writter in Matlab and java).
 
-2. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)
 
 <details>
-<summary><b>Details</b></summary>
-**Concept:**
+<summary><b>Details for SACD</b></summary>
+<b>Concept:</b>
+
+<p align="left">
+<img src='/imgs/SACD model.png' width=700>
+</p>
+
+
+</details>
+
+2. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM): An universal post-processing framework for fluorescent microscopy (writter in Matlab).
+
+<details>
+<summary><b>Details for Sparse-SIM</b></summary>
+<b>Concept:</b>
 
 <p align="left">
 <img src='/imgs/GUIv2.png' width=700>
 </p>
 
-**Algorithm UI:**
+<b>Algorithm UI:</b>
 
 <p align="left">
 <img src='/imgs/GUI.png' width=700>
