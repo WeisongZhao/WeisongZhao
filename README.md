@@ -17,20 +17,6 @@
 <img src='/imgs/pytorch.png' width=100>
 </p>
 
-#### Softwares:
-
-||ImageJ plugin|Matlab framework|Python framework|Other utils|
-|---|----|----|----|----|
-|icon|<p align="center"><img src='/imgs/imagej-128.png' width=60></p>|<p align="center"><img src='/imgs/MATLAB.jpg' width=100></p>|<p align="center"><img src='/imgs/Python.jpg' width=90></p>||
-|1|[PANELJ](https://github.com/WeisongZhao/PANELJ)|[Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|[ImagePy](https://github.com/Image-Py/imagepy)|[CleanWebTemplate](https://github.com/WeisongZhao/CleanWebTemplate)|
-|2|[SACDj](https://github.com/WeisongZhao/SACDj)|[Bayes-LFM](https://github.com/WeisongZhao/Bayes-LFM)|[DL-SIM](https://github.com/WeisongZhao/DL-SIM)| |
-|3|[Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej)|[img2vid](https://github.com/WeisongZhao/img2vid)| | |
-|4| |[SACDM](https://github.com/WeisongZhao/SACDM)| | |
-|5| |[PANELM](https://github.com/WeisongZhao/PANELM)| | |
-|6| |[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation)| | |
-|7| |[MNIST_Recognization](https://github.com/WeisongZhao/MNIST_Recognization)| | |
-
-
 
 ### News (start from 2020)
 
@@ -103,6 +89,21 @@
 2. **Website**: [https://weisongzhao.github.io/](https://weisongzhao.github.io/)
 3. **Email**: zhaoweisong950713@163.com
 4. **Twitter**: [@weisong_zhao](https://twitter.com/weisong_zhao)
+
+#### Softwares:
+
+||ImageJ plugin|Matlab framework|Python framework|Other utils|
+|---|----|----|----|----|
+|icon|<p align="center"><img src='/imgs/imagej-128.png' width=60></p>|<p align="center"><img src='/imgs/MATLAB.jpg' width=100></p>|<p align="center"><img src='/imgs/Python.jpg' width=90></p>||
+|1|[PANELJ](https://github.com/WeisongZhao/PANELJ)|[Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|[ImagePy](https://github.com/Image-Py/imagepy)|[CleanWebTemplate](https://github.com/WeisongZhao/CleanWebTemplate)|
+|2|[SACDj](https://github.com/WeisongZhao/SACDj)|[Bayes-LFM](https://github.com/WeisongZhao/Bayes-LFM)|[DL-SIM](https://github.com/WeisongZhao/DL-SIM)| |
+|3|[Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej)|[img2vid](https://github.com/WeisongZhao/img2vid)| | |
+|4| |[SACDM](https://github.com/WeisongZhao/SACDM)| | |
+|5| |[PANELM](https://github.com/WeisongZhao/PANELM)| | |
+|6| |[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation)| | |
+|7| |[MNIST_Recognization](https://github.com/WeisongZhao/MNIST_Recognization)| | |
+
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WeisongZhao&show_icons=true&theme=dark)
 <!--
