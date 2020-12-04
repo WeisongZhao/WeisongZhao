@@ -13,11 +13,18 @@
 
 1. [SACD 1.0](https://github.com/WeisongZhao/SACD)
 
-<p align='center'>
+2. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)
+**Concept:**
+
+<p align='left'>
 <img src='/imgs/GUIv2.png' align="center" width=600>
 </p>
 
-2. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)
+**Algorithm UI:**
+
+<p align='left'>
+<img src='/imgs/GUI.png' align="center" width=600>
+</p>
 
 ### Contact me 📱
 
