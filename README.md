@@ -7,7 +7,7 @@
 #### Scripting:
 
 <p align="left">
-<img src='/imgs/MATLAB.jpg' width=100>
+<img src='/imgs/MATLAB.jpg' width=110>
 <img src='/imgs/Python.jpg' width=90>
 <img src='/imgs/java.jpg' width=100>
 <img src='/imgs/Keras.png' width=90>
@@ -18,7 +18,7 @@
 
 ### News (start from 2020)
 
-- 2020-11: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) fully open-source!
+- 2020-11: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) is fully open-source!
 - 2020-01: [img2vid](https://github.com/WeisongZhao/img2vid) v0.1.0 released.
 - 2020-01: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) v1.0.3 released `.p` code.
 
@@ -83,9 +83,9 @@
 
 ### Contact me 📱
 
-1. **blogs**:[CSDN](https://blog.csdn.net/weixin_41923961/)
+1. **Blogs**:[CSDN](https://blog.csdn.net/weixin_41923961/)
 2. **Website**: [https://weisongzhao.github.io/](https://weisongzhao.github.io/)
-3. **email**: zhaoweisong950713@163.com
+3. **Email**: zhaoweisong950713@163.com
 4. **Twitter**: [@weisong_zhao](https://twitter.com/weisong_zhao)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WeisongZhao&show_icons=true&theme=dark)
