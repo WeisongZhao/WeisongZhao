@@ -17,6 +17,21 @@
 <img src='/imgs/pytorch.png' width=100>
 </p>
 
+#### ImageJ plugin
+[Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej); [PANELJ](https://github.com/WeisongZhao/PANELJ); [SACDj](https://github.com/WeisongZhao/SACDj); 
+
+#### Matlab framework
+[Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM); [Bayes-LFM](https://github.com/WeisongZhao/Bayes-LFM); [img2vid](https://github.com/WeisongZhao/img2vid); [SACDM](https://github.com/WeisongZhao/SACDM); [PANELM](https://github.com/WeisongZhao/PANELM); 
+
+[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation); [MNIST_Recognization](https://github.com/WeisongZhao/MNIST_Recognization)
+
+
+#### Python framework
+[ImagePy](https://github.com/Image-Py/imagepy); [DL-SIM](https://github.com/WeisongZhao/DL-SIM); 
+
+#### Other utils
+
+[CleanWebTemplate](https://github.com/WeisongZhao/CleanWebTemplate);
 
 ### News (start from 2020)
 
@@ -40,7 +55,7 @@
 
 </details>
 
-2. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM): An universal post-processing framework for fluorescent microscopy (writter in Matlab).
+2. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM): An universal post-processing framework for fluorescent microscopy (written in Matlab).
 
 <details>
 <summary><b>Details for Sparse-SIM</b></summary>
@@ -57,7 +72,7 @@
 </p>
 </details>
 
-3. [img2vid](https://github.com/WeisongZhao/img2vid): A light weight framework for making exsiting images to videos (writter in Matlab).
+3. [img2vid](https://github.com/WeisongZhao/img2vid): A light weight framework for making exsiting images to videos (written in Matlab).
 
 <details>
 <summary><b>Example video produced by img2vid</b></summary>
