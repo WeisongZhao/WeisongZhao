@@ -92,7 +92,7 @@
 3. **Email**: zhaoweisong950713@163.com
 4. **Twitter**: [@weisong_zhao](https://twitter.com/weisong_zhao)
 
-#### Softwares:
+### Software list:
 
 ||ImageJ plugin|Matlab framework|Python framework|Other utils|
 |---|----|----|----|----|
