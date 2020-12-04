@@ -18,7 +18,7 @@
 </p>
 
 
-### News (start from 2020)
+## News (start from 2020)
 
 - 2020-11: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) is fully open-source!
 - 2020-01: [img2vid](https://github.com/WeisongZhao/img2vid) v0.1.0 released.
@@ -26,7 +26,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WeisongZhao&show_icons=true&theme=dark)
 
-### Selected Projects
+## Selected Projects
 
 ### 1. [SACD](https://github.com/WeisongZhao/SACD): 10~20 times faster super-resolution fluctuation imaging. (writter in Matlab and java).
 
@@ -85,14 +85,14 @@
 
 ### 6. [AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation): a light weight simulation framework for adaptive optics in microscopy (written in Matlab).
 
-### Contact me 📱
+## Contact me 📱
 
 1. **Blogs**: [CSDN](https://blog.csdn.net/weixin_41923961/)
 2. **Website**: [https://weisongzhao.github.io/](https://weisongzhao.github.io/)
 3. **Email**: zhaoweisong950713@163.com
 4. **Twitter**: [@weisong_zhao](https://twitter.com/weisong_zhao)
 
-### Software list:
+## Software list:
 
 ||ImageJ plugin|Matlab framework|Python framework|Other utils|
 |---|----|----|----|----|
