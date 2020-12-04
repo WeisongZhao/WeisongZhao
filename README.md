@@ -1,8 +1,9 @@
 
 
 ### About Me
-- :star: I’m currently a Ph.D. student at Harbin Institute of Technology (HIT).
+- :bell: I’m currently a Ph.D. student at Harbin Institute of Technology (HIT).
 - :microscope: I'm developing advanced microscopy for cell/neuro biology.
+- :star: Interested in machine learning:computer: and imaging:movie_camera:.
 
 #### Scripting:
 
