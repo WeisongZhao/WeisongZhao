@@ -17,14 +17,14 @@
 
 **Concept:**
 
-<p align='middle'>
-<img src='/imgs/GUIv2.png' align="center" width=700>
+<p align='left'>
+<img src='/imgs/GUIv2.png' align="left" width=700>
 </p>
 
 **Algorithm UI:**
 
 <p align='left'>
-<img src='/imgs/GUI.png' align="center" width=700>
+<img src='/imgs/GUI.png' align="left" width=700>
 </p>
 
 ### Contact me 📱
