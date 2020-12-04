@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🔭 I’m currently a Ph.D. student at Harbin Institute of Technology (HIT).
 
 <!--
 **WeisongZhao/WeisongZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
