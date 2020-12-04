@@ -4,6 +4,16 @@
 - :star: I’m currently a Ph.D. student at Harbin Institute of Technology (HIT).
 - :microscope: I'm developing advanced microscopy for cell/neuro biology.
 
+#### Scripting:
+
+<p align="left">
+<img src='/imgs/MATLAB.jpg' width=100>
+<img src='/imgs/Python.jpg' width=100>
+<img src='/imgs/java.jpg' width=100>
+<img src='/imgs/Tensor.jpg' width=100>
+</p>
+
+
 ### News (start from 2020)
 
 - 2020-11: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) fully open-source!
@@ -54,7 +64,7 @@
 
 </details>
 
-4. [ImagePy](https://github.com/Image-Py/imagepy): An open source image processing framework (written in Python).
+4. [ImagePy](https://github.com/Image-Py/imagepy): An open source image processing framework (written in Python:snake:).
 
 <details>
 <summary><b>A glance of the ImagePy</b></summary>
