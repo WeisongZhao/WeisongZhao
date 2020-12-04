@@ -103,9 +103,10 @@
 |6| |[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation)| | |
 |7| |[MNIST_Recognization](https://github.com/WeisongZhao/MNIST_Recognization)| | |
 
-
-
+<p align="center">
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WeisongZhao&show_icons=true&theme=dark)
+</p>
+
 <!--
 **WeisongZhao/WeisongZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
