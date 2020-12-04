@@ -8,9 +8,9 @@
 
 <p align="left">
 <img src='/imgs/MATLAB.jpg' width=100>
-<img src='/imgs/Python.jpg' width=100>
+<img src='/imgs/Python.jpg' width=90>
 <img src='/imgs/java.jpg' width=100>
-<img src='/imgs/Tensor.jpg' width=100>
+<img src='/imgs/Tensor.jpg' width=150>
 </p>
 
 
