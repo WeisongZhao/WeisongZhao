@@ -14,7 +14,7 @@
 1. [SACD 1.0](https://github.com/WeisongZhao/SACD)
 
 <p align='center'>
-<img src='/imgs/GUIv2.png' align="center" width=900>
+<img src='/imgs/GUIv2.png' align="center" width=600>
 </p>
 
 2. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)
