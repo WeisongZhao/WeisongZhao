@@ -104,6 +104,7 @@
 |7| |[MNIST_Recognization](https://github.com/WeisongZhao/MNIST_Recognization)| | |
 
 <p align="center">
+	
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WeisongZhao&show_icons=true&theme=dark)
 </p>
 
