@@ -94,7 +94,7 @@
 
 ## Software list:
 
-||ImageJ plugin|Matlab framework|Python framework|Other utils|
+||FIJI/ImageJ plugin|Matlab framework|Python framework|Other utils|
 |---|----|----|----|----|
 |icon|<p align="center"><img src='/imgs/imagej-128.png' width=30></p>|<p align="center"><img src='/imgs/MATLAB.jpg' width=50></p>|<p align="center"><img src='/imgs/Python.jpg' width=45></p>|<p align="center"><img src='/imgs/utils.png' width=45></p>|
 |1|[PANELJ](https://github.com/WeisongZhao/PANELJ)|[PANELM](https://github.com/WeisongZhao/PANELM)|[ImagePy](https://github.com/Image-Py/imagepy)|[CleanWebTemplate](https://github.com/WeisongZhao/CleanWebTemplate)|
