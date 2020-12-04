@@ -28,7 +28,7 @@
 
 ### Selected Projects
 
-1. [SACD](https://github.com/WeisongZhao/SACD): 10~20 times faster super-resolution fluctuation imaging. (writter in Matlab and java).
+### 1. [SACD](https://github.com/WeisongZhao/SACD): 10~20 times faster super-resolution fluctuation imaging. (writter in Matlab and java).
 
 
 <details>
@@ -42,7 +42,7 @@
 
 </details>
 
-2. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM): An universal post-processing framework for fluorescent microscopy (written in Matlab).
+### 2. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM): An universal post-processing framework for fluorescent microscopy (written in Matlab).
 
 <details>
 <summary><b>Details for Sparse-SIM</b></summary>
@@ -70,7 +70,7 @@
 
 </details>
 
-4. [ImagePy](https://github.com/Image-Py/imagepy): An open source image processing framework (written in Python:snake:).
+### 4. [ImagePy](https://github.com/Image-Py/imagepy): An open source image processing framework (written in Python:snake:).
 
 <details>
 <summary><b>A glance of the ImagePy</b></summary>
@@ -81,9 +81,9 @@
 
 </details>
 
-5. [Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej): (written in java). 
+### 5. [Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej): (written in java). 
 
-6. [AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation): a light weight simulation framework for adaptive optics in microscopy (written in Matlab).
+### 6. [AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation): a light weight simulation framework for adaptive optics in microscopy (written in Matlab).
 
 ### Contact me 📱
 
