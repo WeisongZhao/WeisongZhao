@@ -10,6 +10,9 @@
 <img src='/imgs/MATLAB.jpg' width=100>
 <img src='/imgs/Python.jpg' width=90>
 <img src='/imgs/java.jpg' width=100>
+<img src='/imgs/Keras.png' width=100>
+<img src='/imgs/pytorch.png' width=100>
+<img src='/imgs/TensorFlow.png' width=100>
 </p>
 
 
