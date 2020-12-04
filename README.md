@@ -18,14 +18,13 @@
 **Concept:**
 
 <p align='middle'>
-<img src='/imgs/GUIv2.png' align="center" width=400>
-<img src='/imgs/GUI.png' align="center" width=400>
+<img src='/imgs/GUIv2.png' align="center" width=700>
 </p>
 
 **Algorithm UI:**
 
 <p align='left'>
-<img src='/imgs/GUI.png' align="center" width=600>
+<img src='/imgs/GUI.png' align="center" width=700>
 </p>
 
 ### Contact me 📱
