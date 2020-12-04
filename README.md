@@ -1,10 +1,14 @@
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WeisongZhao&show_icons=true&theme=dark)
+
 
 ### About Me
 - 🔭 I’m currently a Ph.D. student at Harbin Institute of Technology (HIT).
 - :microscope: I'm developing advanced microscopy for cell/neuro biology.
+- 
 
-### News
+### News (start from 2020)
+
+- 2020-11: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) fully open-source!
+- 2020-01: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) released `.p` code.
 
 ### Selected Projects
 
@@ -13,8 +17,9 @@
 1. **blogs**:[CSDN](https://blog.csdn.net/weixin_41923961/)
 2. **Website**: [https://weisongzhao.github.io/](https://weisongzhao.github.io/)
 3. **email**: zhaoweisong950713@163.com
-4. **Twitter**: @weisong_zhao
+4. **Twitter**: [@weisong_zhao](https://twitter.com/weisong_zhao)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=WeisongZhao&show_icons=true&theme=dark)
 <!--
 **WeisongZhao/WeisongZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
