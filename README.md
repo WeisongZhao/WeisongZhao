@@ -97,7 +97,7 @@
 ||ImageJ plugin|Matlab framework|Python framework|Other utils|
 |---|----|----|----|----|
 |icon|<p align="center"><img src='/imgs/imagej-128.png' width=30></p>|<p align="center"><img src='/imgs/MATLAB.jpg' width=50></p>|<p align="center"><img src='/imgs/Python.jpg' width=45></p>|<p align="center"><img src='/imgs/utils.png' width=45></p>|
-|1|[PANELJ](https://github.com/WeisongZhao/PANELJ)</br><details><summary><b>Example video produced by img2vid</b></summary><p align="left"><img src='/imgs/stage2.gif' width=700></p></details>|[Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|[ImagePy](https://github.com/Image-Py/imagepy)|[CleanWebTemplate](https://github.com/WeisongZhao/CleanWebTemplate)|
+|1|[PANELJ](https://github.com/WeisongZhao/PANELJ)</br><details><summary><b>description</b></summary><p align="left"><img src='/imgs/stage2.gif' width=700></p></details>|[Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|[ImagePy](https://github.com/Image-Py/imagepy)|[CleanWebTemplate](https://github.com/WeisongZhao/CleanWebTemplate)|
 |2|[SACDj](https://github.com/WeisongZhao/SACDj)|[Bayes-LFM](https://github.com/WeisongZhao/Bayes-LFM)|[DL-SIM](https://github.com/WeisongZhao/DL-SIM)| |
 |3|[Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej)|[img2vid](https://github.com/WeisongZhao/img2vid)| | |
 |4| |[SACDM](https://github.com/WeisongZhao/SACDM)| | |
