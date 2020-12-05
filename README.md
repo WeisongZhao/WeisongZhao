@@ -47,7 +47,7 @@
 <details>
 <summary><b>Details for Sparse-SIM</b></summary>
 <b>Concept:</b>
-
+</br>
 <p align="left">
 <img src='/imgs/GUIv2.png' width=700>
 </p>
