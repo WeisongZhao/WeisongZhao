@@ -34,16 +34,12 @@
 
 ### 6. [SACD](https://github.com/WeisongZhao/SACD): 10~20 times faster super-resolution fluctuation imaging. (written in Matlab and java).
 
-
 <details>
 <summary><b>Details for SACD</b></summary>
 <b>Concept:</b>
-
 <p align="left">
 <img src='/imgs/SACD model.png' width=700>
 </p>
-
-
 </details>
 
 ### 5. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM): An universal post-processing framework for fluorescent microscopy (written in Matlab).
@@ -77,11 +73,10 @@
 ### 3. [ImagePy](https://github.com/Image-Py/imagepy): An open source image processing framework (written in Python:snake:).
 
 <details>
-
+<summary><b>A glance to ImagePy</b></summary>
 <p align="left">
 <img src='/imgs/OS5.png' width=700>
 </p>
-
 </details>
 
 ### 2. [Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej): (written in java). 
@@ -96,7 +91,6 @@
 4. **Twitter**: [@weisong_zhao](https://twitter.com/weisong_zhao)
 
 ## Software list:
-
 
 ||FIJI/ImageJ plugin|Matlab framework|Python framework|Other utils|
 |---|----|----|----|----|
