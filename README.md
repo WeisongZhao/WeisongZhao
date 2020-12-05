@@ -76,8 +76,6 @@
 
 ### 3. [ImagePy](https://github.com/Image-Py/imagepy): An open source image processing framework (written in Python:snake:).
 
-
-
 <details>
 
 <p align="left">
@@ -99,7 +97,6 @@
 
 ## Software list:
 
-<summary><b>Arrange in a programming language</b></summary>
 
 ||FIJI/ImageJ plugin|Matlab framework|Python framework|Other utils|
 |---|----|----|----|----|
@@ -112,7 +109,6 @@
 |6|img2vidJ (in progress)|[Palette](https://github.com/WeisongZhao/Palette.ui)|LFMpy (in progress)| |
 |6| |[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation)| | |
 |7| |[MNIST_Recognization](https://github.com/WeisongZhao/MNIST_Recognization)| | |
-</details>
 
 <!--
 **WeisongZhao/WeisongZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
