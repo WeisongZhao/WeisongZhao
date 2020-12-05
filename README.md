@@ -28,7 +28,11 @@
 
 ## Selected Projects
 
-### 1. [SACD](https://github.com/WeisongZhao/SACD): 10~20 times faster super-resolution fluctuation imaging. (writter in Matlab and java).
+### 8. [PANEL](https://github.com/WeisongZhao/PANEL):(written in Matlab and java).
+
+### 7. [DL-SIM](https://github.com/WeisongZhao/DL-SIM):(written in Python:snake: and java).
+
+### 6. [SACD](https://github.com/WeisongZhao/SACD): 10~20 times faster super-resolution fluctuation imaging. (written in Matlab and java).
 
 
 <details>
@@ -42,7 +46,7 @@
 
 </details>
 
-### 2. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM): An universal post-processing framework for fluorescent microscopy (written in Matlab).
+### 5. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM): An universal post-processing framework for fluorescent microscopy (written in Matlab).
 
 <details>
 <summary><b>Details for Sparse-SIM</b></summary>
@@ -59,7 +63,7 @@
 </p>
 </details>
 
-### 3. [img2vid](https://github.com/WeisongZhao/img2vid): A light weight framework for making exsiting images to videos (written in Matlab).
+### 4. [img2vid](https://github.com/WeisongZhao/img2vid): A light weight framework for making exsiting images to videos (written in Matlab).
 
 <details>
 <summary><b>Example video produced by img2vid</b></summary>
@@ -70,10 +74,11 @@
 
 </details>
 
-### 4. [ImagePy](https://github.com/Image-Py/imagepy): An open source image processing framework (written in Python:snake:).
+### 3. [ImagePy](https://github.com/Image-Py/imagepy): An open source image processing framework (written in Python:snake:).
+
+
 
 <details>
-<summary><b>A glance of the ImagePy</b></summary>
 
 <p align="left">
 <img src='/imgs/OS5.png' width=700>
@@ -81,9 +86,9 @@
 
 </details>
 
-### 5. [Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej): (written in java). 
+### 2. [Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej): (written in java). 
 
-### 6. [AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation): a light weight simulation framework for adaptive optics in microscopy (written in Matlab).
+### 1. [AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation): a light weight simulation framework for adaptive optics in microscopy (written in Matlab).
 
 ## Contact me 📱
 
@@ -93,6 +98,8 @@
 4. **Twitter**: [@weisong_zhao](https://twitter.com/weisong_zhao)
 
 ## Software list:
+
+<summary><b>Arrange in a programming language</b></summary>
 
 ||FIJI/ImageJ plugin|Matlab framework|Python framework|Other utils|
 |---|----|----|----|----|
@@ -105,8 +112,7 @@
 |6|img2vidJ (in progress)|[Palette](https://github.com/WeisongZhao/Palette.ui)|LFMpy (in progress)| |
 |6| |[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation)| | |
 |7| |[MNIST_Recognization](https://github.com/WeisongZhao/MNIST_Recognization)| | |
-
-
+</details>
 
 <!--
 **WeisongZhao/WeisongZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
