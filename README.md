@@ -8,15 +8,14 @@
 #### Scripting:
 
 <p align="left">
-<img src='/imgs/MATLAB.jpg' width=100>
-<img src='/imgs/java.jpg' width=100>
-<img src='/imgs/imagej-128.png' width=60>
-<img src='/imgs/Python.jpg' width=90>
-<img src='/imgs/Keras.png' width=90>
-<img src='/imgs/TensorFlow.png' width=110>
-<img src='/imgs/pytorch.png' width=100>
+<img src='./imgs/MATLAB.jpg' width=100>
+<img src='./imgs/java.jpg' width=100>
+<img src='./imgs/imagej-128.png' width=60>
+<img src='./imgs/Python.jpg' width=90>
+<img src='./imgs/Keras.png' width=90>
+<img src='./imgs/TensorFlow.png' width=110>
+<img src='./imgs/pytorch.png' width=100>
 </p>
-
 
 ## News (start from 2020)
 
@@ -38,24 +37,23 @@
 <summary><b>Details for SACD</b></summary>
 <b>Concept:</b>
 <p align="left">
-<img src='/imgs/SACD model.png' width=700>
+<img src='./imgs/SACD model.png' width=700>
 </p>
 </details>
+
 
 ### 5. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM): An universal post-processing framework for fluorescent microscopy (written in Matlab).
 
 <details>
 <summary><b>Details for Sparse-SIM</b></summary>
 <b>Concept:</b>
-</br>
+<br>
 <p align="left">
-<img src='/imgs/GUIv2.png' width=700>
+<img src='./imgs/GUIv2.png' width=700>
 </p>
-
 <b>Algorithm UI:</b>
-
 <p align="left">
-<img src='/imgs/GUI.png' width=700>
+<img src='./imgs/GUI.png' width=700>
 </p>
 </details>
 
@@ -63,11 +61,9 @@
 
 <details>
 <summary><b>Example video produced by img2vid</b></summary>
-
 <p align="left">
-<img src='/imgs/stage2.gif' width=700>
+<img src='./imgs/stage2.gif' width=700>
 </p>
-
 </details>
 
 ### 3. [ImagePy](https://github.com/Image-Py/imagepy): An open source image processing framework (written in Python:snake:).
@@ -75,7 +71,7 @@
 <details>
 <summary><b>A glance to ImagePy</b></summary>
 <p align="left">
-<img src='/imgs/OS5.png' width=700>
+<img src='./imgs/OS5.png' width=700>
 </p>
 </details>
 
