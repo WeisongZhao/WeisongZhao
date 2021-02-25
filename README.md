@@ -6,7 +6,7 @@
 - :star: Interested in machine learning:computer: and imaging:movie_camera:.
 #### Scripting:
 
-<p align="left">
+<p align="center">
 <img src='./imgs/MATLAB.jpg' width=50>
 <img src='./imgs/java.jpg' width=50>
 <img src='./imgs/imagej-128.png' width=30>
