@@ -4,7 +4,6 @@
 - :bell: I’m currently a Ph.D. student at Harbin Institute of Technology (HIT).
 - :microscope: I'm developing advanced microscopy for cell/neuro biology.
 - :star: Interested in machine learning:computer: and imaging:movie_camera:.
-
 #### Scripting:
 
 <p align="left">
@@ -17,6 +16,13 @@
 <img src='./imgs/pytorch.png' width=100>
 </p>
 
+## Contact me 📱
+
+1. **Blogs**: [CSDN](https://blog.csdn.net/weixin_41923961/)
+2. **Website**: [https://weisongzhao.github.io/](https://weisongzhao.github.io/)
+3. **Email**: zhaoweisong950713@163.com
+4. **Twitter**: [@weisong_zhao](https://twitter.com/weisong_zhao)
+
 ## News (start from 2020)
 
 - 2020-11: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) is fully open-source!
@@ -27,11 +33,11 @@
 
 ## Selected Projects
 
-### 8. [PANEL](https://github.com/WeisongZhao/PANEL):(written in Matlab and java).
+### 8. [PANEL](https://github.com/WeisongZhao/PANEL):(written in Matlab, Python:snake: and java).
 
 ### 7. [DL-SIM](https://github.com/WeisongZhao/DL-SIM):(written in Python:snake: and java).
 
-### 6. [SACD](https://github.com/WeisongZhao/SACD): 10~20 times faster super-resolution fluctuation imaging. (written in Matlab and java).
+### 6. [SACD](https://github.com/WeisongZhao/SACD): 10~20 times faster super-resolution fluctuation imaging. (written in Matlab, Python:snake: and java).
 
 <details>
 <summary><b>Details for SACD</b></summary>
@@ -79,13 +85,7 @@
 
 ### 1. [AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation): a light weight simulation framework for adaptive optics in microscopy (written in Matlab).
 
-## Contact me 📱
-
-1. **Blogs**: [CSDN](https://blog.csdn.net/weixin_41923961/)
-2. **Website**: [https://weisongzhao.github.io/](https://weisongzhao.github.io/)
-3. **Email**: zhaoweisong950713@163.com
-4. **Twitter**: [@weisong_zhao](https://twitter.com/weisong_zhao)
-
+<!--
 ## Software list:
 
 ||FIJI/ImageJ plugin|Matlab framework|Python framework|Other utils|
@@ -99,6 +99,7 @@
 |6|img2vidJ (in progress)|[Palette](https://github.com/WeisongZhao/Palette.ui)|LFMpy (in progress)| |
 |6| |[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation)| | |
 |7| |[MNIST_Recognization](https://github.com/WeisongZhao/MNIST_Recognization)| | |
+-->
 
 <!--
 **WeisongZhao/WeisongZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
