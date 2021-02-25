@@ -7,13 +7,13 @@
 #### Scripting:
 
 <p align="center">
-<img src='./imgs/MATLAB.jpg' width=50>
-<img src='./imgs/java.jpg' width=50>
-<img src='./imgs/imagej-128.png' width=30>
-<img src='./imgs/Python.jpg' width=45>
-<img src='./imgs/Keras.png' width=45>
-<img src='./imgs/TensorFlow.png' width=55>
-<img src='./imgs/pytorch.png' width=50>
+<img src='./imgs/MATLAB.jpg' width=70>
+<img src='./imgs/java.jpg' width=70>
+<img src='./imgs/imagej-128.png' width=42>
+<img src='./imgs/Python.jpg' width=63>
+<img src='./imgs/Keras.png' width=63>
+<img src='./imgs/TensorFlow.png' width=77>
+<img src='./imgs/pytorch.png' width=70>
 </p>
 
 ## Contact me 📱
@@ -33,11 +33,11 @@
 
 ## Selected Projects
 
-### 8. [PANEL](https://github.com/WeisongZhao/PANEL):(written in Matlab, Python:snake: and java).
+#### 8. [PANEL](https://github.com/WeisongZhao/PANEL):(written in Matlab, Python:snake: and java).
 
-### 7. [DL-SIM](https://github.com/WeisongZhao/DL-SIM):(written in Python:snake: and java).
+#### 7. [DL-SIM](https://github.com/WeisongZhao/DL-SIM):(written in Python:snake: and java).
 
-### 6. [SACD](https://github.com/WeisongZhao/SACD): 10~20 times faster super-resolution fluctuation imaging. (written in Matlab, Python:snake: and java).
+#### 6. [SACD](https://github.com/WeisongZhao/SACD): 10~20 times faster super-resolution fluctuation imaging. (written in Matlab, Python:snake: and java).
 
 <details>
 <summary><b>Details for SACD</b></summary>
@@ -48,7 +48,7 @@
 </details>
 
 
-### 5. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM): An universal post-processing framework for fluorescent microscopy (written in Matlab).
+#### 5. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM): An universal post-processing framework for fluorescent microscopy (written in Matlab).
 
 <details>
 <summary><b>Details for Sparse-SIM</b></summary>
@@ -63,7 +63,7 @@
 </p>
 </details>
 
-### 4. [img2vid](https://github.com/WeisongZhao/img2vid): A light weight framework for making exsiting images to videos (written in Matlab).
+#### 4. [img2vid](https://github.com/WeisongZhao/img2vid): A light weight framework for making exsiting images to videos (written in Matlab).
 
 <details>
 <summary><b>Example video produced by img2vid</b></summary>
@@ -72,7 +72,7 @@
 </p>
 </details>
 
-### 3. [ImagePy](https://github.com/Image-Py/imagepy): An open source image processing framework (written in Python:snake:).
+#### 3. [ImagePy](https://github.com/Image-Py/imagepy): An open source image processing framework (written in Python:snake:).
 
 <details>
 <summary><b>A glance to ImagePy</b></summary>
@@ -81,9 +81,9 @@
 </p>
 </details>
 
-### 2. [Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej): (written in java). 
+#### 2. [Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej): (written in java). 
 
-### 1. [AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation): a light weight simulation framework for adaptive optics in microscopy (written in Matlab).
+#### 1. [AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation): a light weight simulation framework for adaptive optics in microscopy (written in Matlab).
 
 #### 0. [Clean-Web-Template](https://github.com/WeisongZhao/CleanWebTemplate): a light weight personal website template (written in html/Javascript).
 
