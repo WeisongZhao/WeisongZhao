@@ -4,7 +4,7 @@
 - I’m currently a Ph.D. student at Harbin Institute of Technology (HIT).
 - I'm buliding advanced microscopy for cell/neuro biology.
 - I'm also developing algorithms for low/high level computer-vision tasks.
-- Interested in machine learning:computer: and imaging.
+- Interested in machine learning and imaging.
 #### Scripting:
 
 <p align="center">
