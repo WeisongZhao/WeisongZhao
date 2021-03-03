@@ -27,6 +27,7 @@
 
 - 2020-11: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) is fully open-source!
 - 2020-01: [img2vid](https://github.com/WeisongZhao/img2vid) v0.1.0 released.
+- 2020-01: [Adaptive filter imagej-plugin](https://github.com/WeisongZhao/AdaptiveMedian.imagej) v0.1.0 released.
 - 2020-01: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) v1.0.3 released `.p` code.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=WeisongZhao&show_icons=true&theme=dark)
