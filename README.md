@@ -26,7 +26,7 @@
 
 ## News (start from 2020)
 
-- 2021-03 An OPEN scientific discussion about deconvolution/sparse-deconvolution is posted on [GitHub](https://weisongzhao.github.io/rl_positivity_sim/) as well as on [Twitter](https://twitter.com/weisong_zhao/status/1370308101690118146);
+- 2021-03: An OPEN scientific discussion about deconvolution/sparse-deconvolution is posted on [GitHub](https://weisongzhao.github.io/rl_positivity_sim/) as well as on [Twitter](https://twitter.com/weisong_zhao/status/1370308101690118146);
 - 2020-11: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) is fully open-source!
 - 2020-01: [img2vid](https://github.com/WeisongZhao/img2vid) v0.1.0 released.
 - 2020-01: [Adaptive filter imagej-plugin](https://github.com/WeisongZhao/AdaptiveMedian.imagej) v0.1.0 released.
