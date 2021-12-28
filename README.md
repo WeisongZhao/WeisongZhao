@@ -26,6 +26,8 @@
 
 ## News (start from 2020)
 
+- 2021-11: A Python version with GPU accelartion of the <i>Sparse deconvolution</i> is released at [sparse-deconv-py](https://github.com/WeisongZhao/sparse-deconv-py);
+- 2021-11: I post a 'behind the paper' blog  about the <i>Sparse deconvolution</i> at [Nature Research Community](https://bioengineeringcommunity.nature.com/posts/physical-resolution-might-be-meaningless-if-in-the-mathmetical-space);
 - 2021-07: [PANELM](https://github.com/WeisongZhao/PANELM) and [PANELJ](https://github.com/WeisongZhao/PANELJ) are fully open-source!
 - 2021-03: An OPEN scientific discussion about deconvolution/sparse-deconvolution is posted on [GitHub](https://weisongzhao.github.io/rl_positivity_sim/) as well as on [Twitter](https://twitter.com/weisong_zhao/status/1370308101690118146);
 - 2020-11: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) is fully open-source!
@@ -52,10 +54,10 @@
 </details>
 
 
-#### 5. [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM): An universal post-processing framework for fluorescent microscopy (written in Matlab).
+#### 5. [Sparse deconvolution](https://github.com/WeisongZhao/Sparse-SIM): An universal post-processing framework for fluorescence microscopy (written in Matlab).
 
 <details>
-<summary><b>Details for Sparse-SIM</b></summary>
+<summary><b>Details for Sparse deconvolution</b></summary>
 <b>Concept:</b>
 <br>
 <p align="left">
