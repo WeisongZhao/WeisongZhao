@@ -1,9 +1,9 @@
 
 
 ## About Me
-- I’m currently a Ph.D. student at Harbin Institute of Technology (HIT).
-- I'm buliding advanced microscopy for cell/neuro biology.
-- I'm also developing algorithms for low/high level computer-vision tasks.
+- Assistant professor (AP) at Harbin Institute of Technology (HIT).
+- He is buliding advanced microscopy for cell/neuro biology.
+- He is also developing algorithms for low/high level computer-vision tasks.
 - Interested in machine learning and imaging.
 #### Scripting:
 
@@ -35,13 +35,10 @@
 - 2020-01: [Adaptive filter imagej-plugin](https://github.com/WeisongZhao/AdaptiveMedian.imagej) v0.1.0 released.
 - 2020-01: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) v1.0.3 released `.p` code.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WeisongZhao&show_icons=true&theme=dark)
 
 ## Selected Projects
 
-#### 8. [PANEL](https://github.com/WeisongZhao/PANEL):(written in Matlab, Python:snake: and java).
-
-#### 7. [DL-SIM](https://github.com/WeisongZhao/DL-SIM):(written in Python:snake: and java).
+#### 7. [PANEL](https://github.com/WeisongZhao/PANELM):(written in Matlab, Python:snake: and java).
 
 #### 6. [SACD](https://github.com/WeisongZhao/SACD): 10~20 times faster super-resolution fluctuation imaging. (written in Matlab, Python:snake: and java).
 
@@ -54,7 +51,7 @@
 </details>
 
 
-#### 5. [Sparse deconvolution](https://github.com/WeisongZhao/Sparse-SIM): An universal post-processing framework for fluorescence microscopy (written in Matlab).
+#### 5. [Sparse deconvolution](https://github.com/WeisongZhao/Sparse-SIM): An universal post-processing framework for fluorescence microscopy (written in Matlab and Python:snake:).
 
 <details>
 <summary><b>Details for Sparse deconvolution</b></summary>
