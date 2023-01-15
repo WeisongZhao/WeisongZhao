@@ -19,16 +19,19 @@
 
 ## Contact me 📱
 
-1. **Blogs**: [CSDN](https://blog.csdn.net/weixin_41923961/)
-2. **Website**: [https://weisongzhao.github.io/](https://weisongzhao.github.io/)
-3. **Email**: zhaoweisong950713@163.com
-4. **Twitter**: [@weisong_zhao](https://twitter.com/weisong_zhao)
+1. **Website**: [https://weisongzhao.github.io/](https://weisongzhao.github.io/)
+2. **Email**: zhaoweisong950713@163.com
+3. **Twitter**: [@weisong_zhao](https://twitter.com/weisong_zhao)
+4. **Blogs**: [CSDN](https://blog.csdn.net/weixin_41923961/)
+
 
 ## News (start from 2020)
 
+- 2022-10: [PANELpy](https://github.com/WeisongZhao/PANELpy) is fully open-source;
+- 2022-05: [SACDm](https://github.com/WeisongZhao/SACDm) and [SACDj](https://github.com/WeisongZhao/SACDj) are fully open-source;
 - 2021-11: A Python version with GPU accelartion of the <i>Sparse deconvolution</i> is released at [sparse-deconv-py](https://github.com/WeisongZhao/sparse-deconv-py);
 - 2021-11: I post a 'behind the paper' blog  about the <i>Sparse deconvolution</i> at [Nature Research Community](https://bioengineeringcommunity.nature.com/posts/physical-resolution-might-be-meaningless-if-in-the-mathmetical-space);
-- 2021-07: [PANELM](https://github.com/WeisongZhao/PANELM) and [PANELJ](https://github.com/WeisongZhao/PANELJ) are fully open-source!
+- 2021-07: [PANELM](https://github.com/WeisongZhao/PANELM) and [PANELJ](https://github.com/WeisongZhao/PANELJ) are fully open-source;
 - 2021-03: An OPEN scientific discussion about deconvolution/sparse-deconvolution is posted on [GitHub](https://weisongzhao.github.io/rl_positivity_sim/) as well as on [Twitter](https://twitter.com/weisong_zhao/status/1370308101690118146);
 - 2020-11: [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM) is fully open-source!
 - 2020-01: [img2vid](https://github.com/WeisongZhao/img2vid) v0.1.0 released.
@@ -40,7 +43,7 @@
 
 #### 7. [PANEL](https://github.com/WeisongZhao/PANELM):(written in Matlab, Python:snake: and java).
 
-#### 6. [SACD](https://github.com/WeisongZhao/SACD): 10~20 times faster super-resolution fluctuation imaging. (written in Matlab, Python:snake: and java).
+#### 6. [SACD](https://github.com/WeisongZhao/SACDm): 10~20 times faster super-resolution fluctuation imaging. (written in Matlab and java).
 
 <details>
 <summary><b>Details for SACD</b></summary>
