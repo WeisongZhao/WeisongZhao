@@ -41,9 +41,22 @@
 
 ## Selected Projects
 
+| **Name** | **MATLAB**  | **Java** | **Python** | **Reference** |
+| :--------: | :-----: |:----: | :----: |
+| **PSF**  | Pre. for Lucy-Richardson deconv.|   ----         |Fit your system|
+| **Rectification**  |Pre. for Lucy-Richardson deconv.|   ----         |Fit your FOV and microlens|
+| **Iteration times**  | Lucy-Richardson deconv.|   SNR Low/High         |50/100|
+| **Iteration times**  | Sparse Hessian recon.  |   ----         |100|
+| **Iteration times**  | Iteratively deblur     |   ----          |10|
+| **Location-normalization**  | Para. for Loaction|  activity of motion/FF/combine|0/1/2|
+| **&lambda;<sub>gaussian</sub>**  | SH-Data fidelity           |xy data breaks slightly/ badly|high/low|
+| **&lambda;<sub>L1</sub>**|SH-Data sparsity|Artifacts little/much|low/high < &lambda;<sub>gaussian</sub>/5 |
+| **&lambda;<sub>z</sub>**         | SH-Data continuity in z    |z data breaks and Artifacts little/much    |low/slightly high |
+| **&mu;**                         | SH-Lagrange multiplier     |   ----    | Fixed by 1|
+
+
 #### [PANEL](https://doi.org/10.1101/2022.12.01.518675):(written in Matlab ([PANELM](https://github.com/WeisongZhao/PANELM)), Python ([PANELpy](https://github.com/WeisongZhao/PANELpy)) and java ([PANELJ](https://github.com/WeisongZhao/PANELJ))).
 
-<hr>
 
 #### [SACD](https://doi.org/10.1101/2022.12.12.520072): 10~20 times faster super-resolution fluctuation imaging. (written in Matlab ([SACDm](https://github.com/WeisongZhao/SACDm)) and java ([SACDj](https://github.com/WeisongZhao/SACDj))).
 
