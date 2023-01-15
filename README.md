@@ -42,62 +42,19 @@
 ## Selected Projects
 
 
-| **Name** | **MATLAB**  | **Java** | **Python** | **Reference** | **Description** |
-| :----: | :----: |:----: | :----: | :----: | :----: |
-|rFRC & PANEL| [PANELM](https://github.com/WeisongZhao/PANELM)|[PANELJ](https://github.com/WeisongZhao/PANELJ)|[PANELpy](https://github.com/WeisongZhao/PANELpy)|[Pre-print](https://doi.org/10.1101/2022.12.01.518675)|Quantitatively mapping the local image quality at super-resolution scale|
-|SACD| [SACDm](https://github.com/WeisongZhao/SACDm)|[SACDj](https://github.com/WeisongZhao/SACDj)|-|[Pre-print](https://doi.org/10.1101/2022.12.12.520072)| 100 times faster super-resolution fluctuation imaging.|
-|Sparse deconvolution| [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|-|[sparse-deconv-py](https://github.com/WeisongZhao/sparse-deconv-py)|[Pre-print](https://doi.org/10.1101/2022.12.12.520072) & [Nat. Biotech.](https://doi.org/10.1038/s41587-021-01092-2)| An universal post-processing framework for fluorescence microscopy.|
+| **Name** | **MATLAB** | **Java** | **Python** | **Other languages** | **Reference** | **Description** |
+| :----: | :----: |:----: | :----: | :----: | :----: | :----: |
+|rFRC & PANEL| [PANELM](https://github.com/WeisongZhao/PANELM)|[PANELJ](https://github.com/WeisongZhao/PANELJ)|[PANELpy](https://github.com/WeisongZhao/PANELpy)|-|[Pre-print](https://doi.org/10.1101/2022.12.01.518675)|Quantitatively mapping the local image quality at super-resolution scale|
+|SACD| [SACDm](https://github.com/WeisongZhao/SACDm)|[SACDj](https://github.com/WeisongZhao/SACDj)|-|-|[Pre-print](https://doi.org/10.1101/2022.12.12.520072)| 100 times faster super-resolution fluctuation imaging.|
+|Sparse deconvolution| [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|-|[sparse-deconv-py](https://github.com/WeisongZhao/sparse-deconv-py)|-| [Nat. Biotech.](https://doi.org/10.1038/s41587-021-01092-2)| An universal post-processing framework for fluorescence microscopy.|
+|img2vid| [img2vid](https://github.com/WeisongZhao/img2vid)|-|-|-| [Nat. Biotech.](https://doi.org/10.1038/s41587-021-01092-2)| A light weight framework for making exsiting images to videos.|
+|Adaptive median filter|-|[AdaptiveMedian.imagej](https://github.com/WeisongZhao/AdaptiveMedian.imagej)|-|-| [Nat. Biotech.](https://doi.org/10.1038/s41587-021-01092-2)|A median filter with adaptive threshold to avoid blurring effects.|
+|ImagePy|-|-|[ImagePy](https://github.com/Image-Py/imagepy)|-| [Bioinformatics](https://doi.org/10.1093/bioinformatics/bty313)|An open source image processing framework (A Pythonic ImageJ).|
+|Simulation for Adaptive Optics |[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation)|-|-|-| [Rev. Sci. Instrum.](https://aip.scitation.org/doi/abs/10.1063/1.5088102)|A light weight simulation framework for adaptive optics in microscopy.|
+|Clean Web Template|-|-|-|[CleanWebTemplate](https://github.com/WeisongZhao/CleanWebTemplate) (written in html/Javascript)|-|A light weight personal website template.|
 
-#### [Sparse deconvolution](https://doi.org/10.1038/s41587-021-01092-2): An universal post-processing framework for fluorescence microscopy (written in [Matlab](https://github.com/WeisongZhao/Sparse-SIM) and [Python](https://github.com/WeisongZhao/sparse-deconv-py) ).
 
-<details>
-<summary><b>Details for Sparse deconvolution</b></summary>
-<b>Concept:</b>
-<br>
-<p align="left">
-<img src='./imgs/GUIv2.png' width=700>
-</p>
-<b>Algorithm UI:</b>
-<p align="left">
-<img src='./imgs/GUI.png' width=700>
-</p>
-</details>
 
-<hr>
-
-#### [img2vid](https://github.com/WeisongZhao/img2vid): A light weight framework for making exsiting images to videos (written in Matlab).
-
-<details>
-<summary><b>Example video produced by img2vid</b></summary>
-<p align="left">
-<img src='./imgs/stage2.gif' width=700>
-</p>
-</details>
-
-<hr>
-
-#### [ImagePy](https://github.com/Image-Py/imagepy): An open source image processing framework (written in Python).
-
-<details>
-<summary><b>A glance to ImagePy</b></summary>
-<p align="left">
-<img src='./imgs/OS5.png' width=700>
-</p>
-</details>
-
-<hr>
-
-#### [Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej): median filter with adaptive threshold to avoid blurring effects (written in java). 
-
-<hr>
-
-#### [AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation): a light weight simulation framework for adaptive optics in microscopy (written in Matlab).
-
-<hr>
-
-#### [Clean-Web-Template](https://github.com/WeisongZhao/CleanWebTemplate): a light weight personal website template (written in html/Javascript).
-
-<hr>
 
 <!--
 ## Software list:
