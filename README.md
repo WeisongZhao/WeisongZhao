@@ -45,9 +45,7 @@
 | **Name** | **MATLAB**  | **Java** | **Python** | **Reference** | **Description** |
 | :----: | :----: |:----: | :----: | :----: | :----: |
 |rFRC & PANEL| [PANELM](https://github.com/WeisongZhao/PANELM)|[PANELJ](https://github.com/WeisongZhao/PANELJ)|[PANELpy](https://github.com/WeisongZhao/PANELpy)|[Pre-print](https://doi.org/10.1101/2022.12.01.518675)|Quantitatively mapping the local image quality at super-resolution scale|
-
 |SACD| [SACDm](https://github.com/WeisongZhao/SACDm)|[SACDj](https://github.com/WeisongZhao/SACDj)|-|[Pre-print](https://doi.org/10.1101/2022.12.12.520072)| 100 times faster super-resolution fluctuation imaging.|
-
 |Sparse deconvolution| [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|-|[sparse-deconv-py](https://github.com/WeisongZhao/sparse-deconv-py)|[Pre-print](https://doi.org/10.1101/2022.12.12.520072) & [Nat. Biotech.](https://doi.org/10.1038/s41587-021-01092-2)| An universal post-processing framework for fluorescence microscopy.|
 
 #### [Sparse deconvolution](https://doi.org/10.1038/s41587-021-01092-2): An universal post-processing framework for fluorescence microscopy (written in [Matlab](https://github.com/WeisongZhao/Sparse-SIM) and [Python](https://github.com/WeisongZhao/sparse-deconv-py) ).
