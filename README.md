@@ -48,10 +48,10 @@
 |SACD| [SACDm](https://github.com/WeisongZhao/SACDm)|[SACDj](https://github.com/WeisongZhao/SACDj)|-|-|[Pre-print](https://doi.org/10.1101/2022.12.12.520072)| 100 times faster super-resolution fluctuation imaging.|
 |Sparse deconvolution| [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|-|[sparse-deconv-py](https://github.com/WeisongZhao/sparse-deconv-py)|-| [Nat. Biotech.](https://doi.org/10.1038/s41587-021-01092-2)| An universal post-processing framework for fluorescence microscopy.|
 |img2vid| [img2vid](https://github.com/WeisongZhao/img2vid)|-|-|-| [Nat. Biotech.](https://doi.org/10.1038/s41587-021-01092-2)| A light weight framework for making exsiting images to videos.|
-|Adaptive median filter|-|[AdaptiveMedian.imagej](https://github.com/WeisongZhao/AdaptiveMedian.imagej)|-|-| [Nat. Biotech.](https://doi.org/10.1038/s41587-021-01092-2)|A median filter with adaptive threshold to avoid blurring effects.|
+|Adaptive median filter|-|[Adaptive-Median-imagej](https://github.com/WeisongZhao/AdaptiveMedian.imagej)|-|-| [Nat. Biotech.](https://doi.org/10.1038/s41587-021-01092-2)|A median filter with adaptive threshold to avoid blurring effects.|
 |ImagePy|-|-|[ImagePy](https://github.com/Image-Py/imagepy)|-| [Bioinformatics](https://doi.org/10.1093/bioinformatics/bty313)|An open source image processing framework (A Pythonic ImageJ).|
 |Simulation for Adaptive Optics |[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation)|-|-|-| [Rev. Sci. Instrum.](https://aip.scitation.org/doi/abs/10.1063/1.5088102)|A light weight simulation framework for adaptive optics in microscopy.|
-|Clean Web Template|-|-|-|[CleanWebTemplate](https://github.com/WeisongZhao/CleanWebTemplate) (html/Javascript)|-|A light weight personal website template.|
+|Clean Web Template|-|-|-|[CleanWeb-Template](https://github.com/WeisongZhao/CleanWebTemplate) (html/Javascript)|-|A light weight personal website template.|
 
 
 
