@@ -43,6 +43,8 @@
 
 #### [PANEL](https://doi.org/10.1101/2022.12.01.518675):(written in Matlab ([PANELM](https://github.com/WeisongZhao/PANELM)), Python ([PANELpy](https://github.com/WeisongZhao/PANELpy)) and java ([PANELJ](https://github.com/WeisongZhao/PANELJ))).
 
+<hr>
+
 #### [SACD](https://doi.org/10.1101/2022.12.12.520072): 10~20 times faster super-resolution fluctuation imaging. (written in Matlab ([SACDm](https://github.com/WeisongZhao/SACDm)) and java ([SACDj](https://github.com/WeisongZhao/SACDj))).
 
 <details>
@@ -53,6 +55,7 @@
 </p>
 </details>
 
+<hr>
 
 #### [Sparse deconvolution](https://doi.org/10.1038/s41587-021-01092-2): An universal post-processing framework for fluorescence microscopy (written in [Matlab](https://github.com/WeisongZhao/Sparse-SIM) and [Python](https://github.com/WeisongZhao/sparse-deconv-py) ).
 
@@ -80,6 +83,8 @@
 </p>
 </details>
 
+<hr>
+
 #### [ImagePy](https://github.com/Image-Py/imagepy): An open source image processing framework (written in Python).
 
 <details>
@@ -89,12 +94,19 @@
 </p>
 </details>
 
+<hr>
+
 #### [Adaptive median filter](https://github.com/WeisongZhao/AdaptiveMedian.imagej): median filter with adaptive threshold to avoid blurring effects (written in java). 
+
+<hr>
 
 #### [AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation): a light weight simulation framework for adaptive optics in microscopy (written in Matlab).
 
+<hr>
+
 #### [Clean-Web-Template](https://github.com/WeisongZhao/CleanWebTemplate): a light weight personal website template (written in html/Javascript).
 
+<hr>
 
 <!--
 ## Software list:
