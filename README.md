@@ -69,6 +69,8 @@
 </p>
 </details>
 
+<hr>
+
 #### [img2vid](https://github.com/WeisongZhao/img2vid): A light weight framework for making exsiting images to videos (written in Matlab).
 
 <details>
