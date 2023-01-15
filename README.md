@@ -42,7 +42,7 @@
 ## Selected Projects
 
 
-| **Name** | **MATLAB** | **Java** | **Python** | **Other languages** | **Reference** | **Description** |
+| **Name** | **MATLAB** | **Java (ImageJ)** | **Python** | **Other languages** | **Reference** | **Description** |
 | :----: | :----: |:----: | :----: | :----: | :----: | :----: |
 |rFRC & PANEL| [PANELM](https://github.com/WeisongZhao/PANELM)|[PANELJ](https://github.com/WeisongZhao/PANELJ)|[PANELpy](https://github.com/WeisongZhao/PANELpy)|-|[Pre-print](https://doi.org/10.1101/2022.12.01.518675)|Quantitatively mapping the local image quality at super-resolution scale|
 |SACD| [SACDm](https://github.com/WeisongZhao/SACDm)|[SACDj](https://github.com/WeisongZhao/SACDj)|-|-|[Pre-print](https://doi.org/10.1101/2022.12.12.520072)| 100 times faster super-resolution fluctuation imaging.|
