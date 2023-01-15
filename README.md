@@ -43,9 +43,8 @@
 
 
 | **Name** | **MATLAB**  | **Java** | **Python** | **Reference** |
-| :--------: | :-----: |:----: | :----: | :----: |
-
-|
+| :----: | :----: |:----: | :----: | :----: |
+|rFRC & PANEL| [PANELM](https://github.com/WeisongZhao/PANELM)|[PANELJ](https://github.com/WeisongZhao/PANELJ)|[PANELpu](https://github.com/WeisongZhao/PANELpy)|[Pre-print](https://doi.org/10.1101/2022.12.01.518675)|
 
 
 #### [PANEL](https://doi.org/10.1101/2022.12.01.518675):(written in Matlab ([PANELM](https://github.com/WeisongZhao/PANELM)), Python ([PANELpy](https://github.com/WeisongZhao/PANELpy)) and java ([PANELJ](https://github.com/WeisongZhao/PANELJ))).
