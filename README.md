@@ -51,7 +51,7 @@
 |Adaptive median filter|-|[AdaptiveMedian.imagej](https://github.com/WeisongZhao/AdaptiveMedian.imagej)|-|-| [Nat. Biotech.](https://doi.org/10.1038/s41587-021-01092-2)|A median filter with adaptive threshold to avoid blurring effects.|
 |ImagePy|-|-|[ImagePy](https://github.com/Image-Py/imagepy)|-| [Bioinformatics](https://doi.org/10.1093/bioinformatics/bty313)|An open source image processing framework (A Pythonic ImageJ).|
 |Simulation for Adaptive Optics |[AdaptiveOptics.simulation](https://github.com/WeisongZhao/AdaptiveOptics.simulation)|-|-|-| [Rev. Sci. Instrum.](https://aip.scitation.org/doi/abs/10.1063/1.5088102)|A light weight simulation framework for adaptive optics in microscopy.|
-|Clean Web Template|-|-|-|[CleanWebTemplate](https://github.com/WeisongZhao/CleanWebTemplate) (written in html/Javascript)|-|A light weight personal website template.|
+|Clean Web Template|-|-|-|[CleanWebTemplate](https://github.com/WeisongZhao/CleanWebTemplate) (html/Javascript)|-|A light weight personal website template.|
 
 
 
