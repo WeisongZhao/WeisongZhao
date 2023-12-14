@@ -1,10 +1,10 @@
 
 
 ## About Me
-- Assistant professor (AP) at Harbin Institute of Technology (HIT).
-- He is buliding advanced microscopy for cell/neuro biology.
-- He is also developing algorithms for low/high level computer-vision tasks.
-- Interested in machine learning and imaging.
+- Assistant Professor, PI, translator from math to code, microscopist, and data scientist at Harbin Institute of Technology (HIT).
+- His research interest focuses on advanced microscopy, machine learning, and bioinformatics. 
+- His lab is building advanced optical microscopy for biomedical applications, as well as developing smart algorithms across modalities including optical microscopy, acoustic/photoacoustic imaging, and cryo-EM/ET.
+
 #### Scripting:
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## Contact me 📱
 
-1. **Website**: [https://weisongzhao.github.io/](https://weisongzhao.github.io/)
+1. **Website**: [https://weisongzhao.github.io/MyWeb2/](https://weisongzhao.github.io/MyWeb2/)
 2. **Email**: zhaoweisong950713@163.com
 3. **Twitter**: [@weisong_zhao](https://twitter.com/weisong_zhao)
 4. **Blogs**: [CSDN](https://blog.csdn.net/weixin_41923961/)
@@ -44,7 +44,7 @@
 
 | **Name** | **MATLAB** | **Java (ImageJ)** | **Python** | **Other languages** | **Reference** | **Description** |
 | :----: | :----: |:----: | :----: | :----: | :----: | :----: |
-|**rFRC & PANEL**| [PANELM](https://github.com/WeisongZhao/PANELM)|[PANELJ](https://github.com/WeisongZhao/PANELJ)|[PANELpy](https://github.com/WeisongZhao/PANELpy)|-|[Pre-print](https://doi.org/10.1101/2022.12.01.518675)|Quantitatively mapping the local image quality at super-resolution scale|
+|**rFRC & PANEL**| [PANELM](https://github.com/WeisongZhao/PANELM)|[PANELJ](https://github.com/WeisongZhao/PANELJ)|[PANELpy](https://github.com/WeisongZhao/PANELpy)|-|[Light: Sci. Appl.](https://doi.org/10.1038/s41377-023-01321-0)|Quantitatively mapping the local image quality at super-resolution scale|
 |**SACD**| [SACDm](https://github.com/WeisongZhao/SACDm)|[SACDj](https://github.com/WeisongZhao/SACDj)|-|-|[Nat. Photon.](https://doi.org/10.1038/s41566-023-01234-9)| 100 times faster super-resolution fluctuation imaging.|
 |**Sparse deconvolution**| [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|-|[sparse-deconv-py](https://github.com/WeisongZhao/sparse-deconv-py)|-| [Nat. Biotech.](https://doi.org/10.1038/s41587-021-01092-2)| An universal post-processing framework for fluorescence microscopy.|
 |**ImagePy**|-|-|[ImagePy](https://github.com/Image-Py/imagepy)|-| [Bioinformatics](https://doi.org/10.1093/bioinformatics/bty313)|An open source image processing framework (A Pythonic ImageJ).|
