@@ -1,6 +1,6 @@
 
 
-## About Me
+## Weisong Zhao Ph.D.
 - Professor, PI, microscopist, and data scientist at Harbin Institute of Technology (HIT).
 - His research interest focuses on biomedical imaging, machine learning, and bioimage analysis. 
 - His lab is building advanced optical microscopy for biomedical applications, as well as developing smart algorithms across modalities including optical microscopy, acoustic/photoacoustic imaging, and cryo-EM/ET.
@@ -17,7 +17,7 @@
 <img src='./imgs/pytorch.png' width=70>
 </p>
 
-## Contact me 📱
+## Contact 📱
 
 1. **Website**: [https://weisongzhao.github.io/](https://weisongzhao.github.io/)
 2. **Email**: zhaoweisong950713@163.com
