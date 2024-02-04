@@ -19,7 +19,7 @@
 
 ## Contact me 📱
 
-1. **Website**: [https://weisongzhao.github.io/MyWeb2/](https://weisongzhao.github.io/)
+1. **Website**: [https://weisongzhao.github.io/](https://weisongzhao.github.io/)
 2. **Email**: zhaoweisong950713@163.com
 3. **Twitter**: [@weisong_zhao](https://twitter.com/weisong_zhao)
 4. **Blogs**: [CSDN](https://blog.csdn.net/weixin_41923961/)
