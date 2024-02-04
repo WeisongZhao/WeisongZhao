@@ -19,7 +19,7 @@
 
 ## Contact me 📱
 
-1. **Website**: [https://weisongzhao.github.io/MyWeb2/](https://weisongzhao.github.io/MyWeb2/)
+1. **Website**: [https://weisongzhao.github.io/MyWeb2/](https://weisongzhao.github.io/)
 2. **Email**: zhaoweisong950713@163.com
 3. **Twitter**: [@weisong_zhao](https://twitter.com/weisong_zhao)
 4. **Blogs**: [CSDN](https://blog.csdn.net/weixin_41923961/)
@@ -27,6 +27,7 @@
 
 ## News (start from 2020)
 
+- 2024-01: [SN2N](https://github.com/WeisongZhao/SN2N) is fully open-source;
 - 2022-10: [PANELpy](https://github.com/WeisongZhao/PANELpy) is fully open-source;
 - 2022-05: [SACDm](https://github.com/WeisongZhao/SACDm) and [SACDj](https://github.com/WeisongZhao/SACDj) are fully open-source;
 - 2021-11: A Python version with GPU accelartion of the <i>Sparse deconvolution</i> is released at [sparse-deconv-py](https://github.com/WeisongZhao/sparse-deconv-py);
@@ -44,6 +45,7 @@
 
 | **Name** | **MATLAB** | **Java (ImageJ)** | **Python** | **Other languages** | **Reference** | **Description** |
 | :----: | :----: |:----: | :----: | :----: | :----: | :----: |
+|**SN2N**| - |-|[SN2N](https://github.com/WeisongZhao/SN2N)|-|[bioRxiv](https://doi.org/10.1101/2024.01.23.576521)|Self-inspired Noise2Noise learning to denoise engine|
 |**rFRC & PANEL**| [PANELM](https://github.com/WeisongZhao/PANELM)|[PANELJ](https://github.com/WeisongZhao/PANELJ)|[PANELpy](https://github.com/WeisongZhao/PANELpy)|-|[Light: Sci. Appl.](https://doi.org/10.1038/s41377-023-01321-0)|Quantitatively mapping the local image quality at super-resolution scale|
 |**SACD**| [SACDm](https://github.com/WeisongZhao/SACDm)|[SACDj](https://github.com/WeisongZhao/SACDj)|-|-|[Nat. Photon.](https://doi.org/10.1038/s41566-023-01234-9)| 100 times faster super-resolution fluctuation imaging.|
 |**Sparse deconvolution**| [Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|-|[sparse-deconv-py](https://github.com/WeisongZhao/sparse-deconv-py)|-| [Nat. Biotech.](https://doi.org/10.1038/s41587-021-01092-2)| An universal post-processing framework for fluorescence microscopy.|
