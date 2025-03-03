@@ -6,7 +6,7 @@
 - His lab is building advanced optical microscopy for biomedical applications, as well as developing smart algorithms across modalities including optical microscopy, acoustic/photoacoustic imaging, and cryo-EM/ET.
 
 ## SR-Wiki
-- For imaging tool usage, please ref to [SR-Wiki](https://github.com/SR-Wiki/). The old projects have been moved to [SR-Wiki](https://github.com/SR-Wiki/), and will be maintained at there.
+- For imaging tool usage, please refer to [SR-Wiki](https://github.com/SR-Wiki/). The old projects have been moved to [SR-Wiki](https://github.com/SR-Wiki/), and will be maintained at there.
 
 <!-- #### Scripting:
 
